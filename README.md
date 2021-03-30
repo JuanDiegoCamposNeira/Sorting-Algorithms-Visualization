@@ -5,5 +5,8 @@ Web page created with React.js that lets you see how some of the most famus sort
 - Heap sort
 - Insertion sort
 
+### Proyect available on : 
+https://juandiegocamposneira.github.io/Sorting-Algorithms-Visualization/
+
 ### Note: 
 This project is under construction 
